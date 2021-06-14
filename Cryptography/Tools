@@ -6,4 +6,9 @@ All list online:
 Symmetric Encyption and Decryption
   http://des.online-domain-tools.com/
 
+Commands::
+->> OpenSSL
+      - Using openssl tool to decrypt RSA Cipher.
+      >> "cat <Suspected_Key_File>"  - to ensure it is a key file 
+      >> "openssl rsautl -inkey <Suspected_Key_File> -in <File_to_Decrypt> -decrypt"  - prints the decryption
  
