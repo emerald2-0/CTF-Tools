@@ -1,1 +1,15 @@
 Exploit Suggester in metasploit --> Gives suggestion of exploit to use
+Metepreter Post Exploitation:
+ - Getuid - a whoami in meterpreter
+ - Hashdump
+ - Record_mic
+ -Webcam
+ -Sniffer
+ -Enable_rdp
+ -Killav -- kills antivirus
+ -Clearev - Clear event viewer
+ Meterpretor incognito - captures token of the user..in priviledge escalation
+ 
+Empire:
+ - Framework like metasploit.
+ - One can attach a code to Office Macro-enabled applications
