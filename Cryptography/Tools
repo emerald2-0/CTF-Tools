@@ -11,6 +11,9 @@ Symmetric Encyption and Decryption
 
 RSA Encryptor/Decryptor/Key Generator/Cracker
     http://nmichaels.org/rsa.py
+    
+A website to crack hashes:
+    https://crackstation.net/
 
 Commands::
 ->> OpenSSL
